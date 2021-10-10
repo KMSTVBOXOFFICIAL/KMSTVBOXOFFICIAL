@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id=TV 1 tvg-name=TV_1 tvg-logo=”TV 1.png” group-title=”RTM”,TV 1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
