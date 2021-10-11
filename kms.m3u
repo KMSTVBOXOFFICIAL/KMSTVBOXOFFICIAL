@@ -1,7 +1,7 @@
 #EXTM3U
 
 MALAYSIA IPTV
-#EXTINF:-1,TV1
+#EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
 #EXTINF:-1,TV2
