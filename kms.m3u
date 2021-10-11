@@ -1,13 +1,13 @@
 #EXTM3U
 
 MALAYSIA IPTV
-#EXTINF:-1 tvg-id="104" tvg-name="TV1" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/2560px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1
+#EXTINF:-1 tvg-id="104" tvg-name="TV1" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/2560px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 
-#EXTINF:-1,TV2
+#EXTINF:-1 tvg-id="104" tvg-name="TV1" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Logo_of_TV2_%28Malaysia%29.svg.png",TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
-#EXTINF:-1,TV3
+#EXTINF:-1 tvg-id="104" tvg-name="TV1" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png",TV3
 https://mediahomes.github.io/assets/my/ch_tv3.m3u8
 
 #EXTINF:-1,NTV7
