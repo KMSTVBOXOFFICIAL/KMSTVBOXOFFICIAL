@@ -2,7 +2,7 @@
 
 MALAYSIA IPTV
 #EXTINF:-1 tvg-id="104" tvg-name="TV1" group-title="MALAYSIA" tvg-logo="https://static.wixstatic.com/media/9a22b8_afe296101ca14fc2acefe2ab7406c3c5~mv2.png/v1/fill/w_220,h_122,al_c,q_85,usm_0.66_1.00_0.01/KMS_TV_BOX-removebg_edited.webp",KMS TV BOX WELCOME
-https://video.wixstatic.com/video/7107fc_48046b38536643ebaff759eabaf8bd01/1080p/mp4/file.mp4
+https://video.wixstatic.com/video/7107fc_36b8352c5b2e418fa6f4d830a9405685/1080p/mp4/file.mp4
 
 #EXTINF:-1 tvg-id="104" tvg-name="TV1" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/2560px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
