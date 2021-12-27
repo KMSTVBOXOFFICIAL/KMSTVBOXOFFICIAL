@@ -5,13 +5,13 @@ MALAYSIA IPTV
 https://video.wixstatic.com/video/7107fc_36b8352c5b2e418fa6f4d830a9405685/1080p/mp4/file.mp4
 
 #EXTINF:-1 tvg-id="104" tvg-name="TV1" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/2560px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+https://video.wixstatic.com/video/7107fc_327d0ed7522e4fe4940e9481b30fa1af/1080p/mp4/file.mp4
 
 #EXTINF:-1 tvg-id="104" tvg-name="TV1" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Logo_of_TV2_%28Malaysia%29.svg.png",TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+https://video.wixstatic.com/video/7107fc_327d0ed7522e4fe4940e9481b30fa1af/1080p/mp4/file.mp4
 
 #EXTINF:-1 tvg-id="104" tvg-name="TV1" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png",TV3
 https://mediahomes.github.io/assets/my/ch_tv3.m3u8
 
 #EXTINF:-1,NTV7
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/107.m3u8
+https://video.wixstatic.com/video/7107fc_327d0ed7522e4fe4940e9481b30fa1af/1080p/mp4/file.mp4
